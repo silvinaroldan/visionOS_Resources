@@ -3,8 +3,6 @@
 
 This repository features a collection of visionOS samples I've made, alongside valuable resources from others to facilitate learning SwiftUI for Vision Pro.
 
-> **Note:** The projects require Xcode 16.
-
 ## Table of Contents
 - [Samples](#samples)
 - [References](#references)
@@ -42,4 +40,4 @@ This repository features a collection of visionOS samples I've made, alongside v
 ## Assets and images
 - [Free 360 images for your projects](https://www.freepik.com/search?format=search&last_filter=query&last_value=360+panorama+images&query=360+panorama+images)
 
-
+> **Note:** The projects require Xcode 16.
