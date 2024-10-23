@@ -6,7 +6,7 @@ This repository features a collection of visionOS samples I've made, alongside v
 ## Table of Contents
 - [Samples](#samples)
 - [References](#references)
-- [visionOS YouTube Channels](#visionOSYouTubeChannels)
+- [visionOS YouTube Channels]([#visionOSYouTubeChannels](#visionos-youtube-channels))
 - [Tutorials](#tutorials)
 - [Other Useful Repositories and Articles](#visionos-youtube-channels)
 - [Assets and images](#assets-and-images)
