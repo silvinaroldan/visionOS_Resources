@@ -18,6 +18,8 @@ This repository features a collection of visionOS samples I've made, alongside v
 | [Simple Form](https://github.com/silvinaroldan/BirthDateForm/tree/main) | <img src="https://github.com/user-attachments/assets/c42f5f00-602b-45a5-b44c-7892741d616f"  width="400">   
 | [Pop Bubbles in an Immersive Space](https://github.com/silvinaroldan/Bubbles/tree/main) | <img src="https://github.com/user-attachments/assets/1e7301a8-dc53-4e46-b3a9-330c6f1d79ee" width="400"> |
 | [Bubbles moves in an immersive experience with a 360-degree image](https://github.com/silvinaroldan/BubblesMovesSmoothly/tree/main) |<img src="https://github.com/user-attachments/assets/e165eb27-cb52-4095-a848-998be563a82a"  width="400"> |        |
+| [Bubbles with 3D text inside](https://github.com/silvinaroldan/BubblesMovesSmoothly/tree/main) |<img src="https://github.com/user-attachments/assets/ba299844-9cd4-4e3c-9f6b-26c578f4acc4"  width="400"> |   
+
 
 
 ## References
