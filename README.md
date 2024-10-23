@@ -23,6 +23,7 @@ This repository features a collection of visionOS samples I've made, alongside v
 ## References
 - [Sarang Borude - Make a Beautiful Bubble Shader for Apple Vision Pro Tutorial](https://www.youtube.com/watch?v=zk1u4nguamY)
 - [Sarang Borude - Making bubbles move in your Apple Vision Pro app](https://www.youtube.com/watch?v=GVC6X6aQ9kM)
+- [Generating 3D text with RealityKit](https://coledennis.medium.com/tutorial-generating-3d-text-with-realitykit-in-a-swiftui-app-fa2a50403012)
 
 ## Other Useful Repositories and Articles
 - [Particle Effects](https://getstream.io/blog/visionos-particle-effects/)
