@@ -40,6 +40,8 @@ This repository features a collection of visionOS samples I've made, alongside v
 - [Introduction to 3D Modeling - Coursera](https://www.coursera.org/learn/introduction-to-3d-modeling/)
 - [How to add collision components to an entity to animate it if we perform a gesture](https://developer.apple.com/videos/play/wwdc2023/10203)
 - [visionOS Labs](https://vrhermit.com/canvatorium-visio/)
+- [Hand Tracking, Scene Reconstruction and Real World Interactions with ARKit](https://www.youtube.com/watch?v=y4nPSAaX14s)
+- [Tracking and visualizing hand movement Apple sample](https://developer.apple.com/documentation/visionos/tracking-and-visualizing-hand-movement)
 
 ## Assets and images
 - [Free 360 images for your projects](https://www.freepik.com/search?format=search&last_filter=query&last_value=360+panorama+images&query=360+panorama+images)
