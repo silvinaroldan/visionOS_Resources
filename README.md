@@ -10,6 +10,7 @@ This repository features a collection of visionOS samples I've made, alongside v
 - [Tutorials](#tutorials)
 - [Other Useful Repositories and Articles](#visionos-youtube-channels)
 - [Assets and images](#assets-and-images)
+- [Others](#others)
 
 ## Samples
 
@@ -41,5 +42,9 @@ This repository features a collection of visionOS samples I've made, alongside v
 
 ## Assets and images
 - [Free 360 images for your projects](https://www.freepik.com/search?format=search&last_filter=query&last_value=360+panorama+images&query=360+panorama+images)
+
+## Others
+- [Apple's Feedback Assistant, a platform for reporting bugs and submitting feedback about Apple products](https://feedbackassistant.apple.com/)
+
 
 > **Note:** The projects require Xcode 16.
