@@ -6,7 +6,8 @@ This repository features valuable resources to facilitate learning SwiftUI for V
 ## Table of Contents
 - [Samples](#samples)
 - [GitHub Repositories](#github-repositories)
-- [Tutorials](#tutorials)
+- [Development Tutorials](#development-tutorials)
+- [Reality Composer Pro](#reality-composer-pro-tutorials)
 - [Assets and images](#assets-and-images)
 - [Others](#others)
 
@@ -24,7 +25,7 @@ This repository features valuable resources to facilitate learning SwiftUI for V
 ## GitHub Repositories
 - [UI Elements and 3D Interaction Framework for development and debugging](https://github.com/noeticgarden/uielements?tab=readme-ov-file)
 
-## Tutorials
+## Development Tutorials
 - [visionOS Pathway from Apple](https://developer.apple.com/visionos/pathway/)
 - [Introduction to 3D Modeling - Coursera](https://www.coursera.org/learn/introduction-to-3d-modeling/)
 - [How to add collision components to an entity to animate it if we perform a gesture](https://developer.apple.com/videos/play/wwdc2023/10203)
@@ -36,6 +37,10 @@ This repository features valuable resources to facilitate learning SwiftUI for V
 - [Hand Tracking, Scene Reconstruction and Real World Interactions with ARKit](https://www.youtube.com/watch?v=y4nPSAaX14s)
 - [Tracking and visualizing hand movement Apple sample](https://developer.apple.com/documentation/visionos/tracking-and-visualizing-hand-movement)
 - [Particle Effects](https://getstream.io/blog/visionos-particle-effects/)
+
+## Reality Composer Pro tutorials
+[Compose interactive 3D content](https://developer.apple.com/videos/play/wwdc2024/10102/)
+  
 
 ## Assets and images
 - [Free 360 images for your projects](https://www.freepik.com/search?format=search&last_filter=query&last_value=360+panorama+images&query=360+panorama+images)
