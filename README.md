@@ -1,7 +1,7 @@
 
 # visionOS Resources
 
-This repository features a collection of visionOS samples I've made, alongside valuable resources from others to facilitate learning SwiftUI for Vision Pro.
+This repository features valuable resources from to facilitate learning SwiftUI for Vision Pro. and it also contains a collection of visionOS samples I've made, alongside
 
 ## Table of Contents
 - [Samples](#samples)
@@ -23,17 +23,14 @@ This repository features a collection of visionOS samples I've made, alongside v
 | [Bubbles with 3D text inside](https://github.com/silvinaroldan/BubbleText/tree/main) |<img src="https://github.com/user-attachments/assets/ba299844-9cd4-4e3c-9f6b-26c578f4acc4"  width="400"> |   
 
 
+## GitHub Repositories
+- [UI Elements and 3D Interaction Framework for development and debugging](https://github.com/noeticgarden/uielements?tab=readme-ov-file)
 
-## References
+## YouTube tutorials
+- [Dwight the Maker - visionOs Development](https://www.youtube.com/watch?v=iPgeybXjh7I&list=PLZzMtchyTKdOl0YGpeUmFiRSA6JNOO92Z)
 - [Sarang Borude - Make a Beautiful Bubble Shader for Apple Vision Pro Tutorial](https://www.youtube.com/watch?v=zk1u4nguamY)
 - [Sarang Borude - Making bubbles move in your Apple Vision Pro app](https://www.youtube.com/watch?v=GVC6X6aQ9kM)
 - [Generating 3D text with RealityKit](https://coledennis.medium.com/tutorial-generating-3d-text-with-realitykit-in-a-swiftui-app-fa2a50403012)
-
-## Other Useful Repositories and Articles
-- [Particle Effects](https://getstream.io/blog/visionos-particle-effects/)
-
-## visionOS YouTube Channels
-- [Dwight the Maker - visionOs Development](https://www.youtube.com/watch?v=iPgeybXjh7I&list=PLZzMtchyTKdOl0YGpeUmFiRSA6JNOO92Z)
 
 ## Tutorials
 - [visionOS Pathway from Apple](https://developer.apple.com/visionos/pathway/)
@@ -42,6 +39,7 @@ This repository features a collection of visionOS samples I've made, alongside v
 - [visionOS Labs](https://vrhermit.com/canvatorium-visio/)
 - [Hand Tracking, Scene Reconstruction and Real World Interactions with ARKit](https://www.youtube.com/watch?v=y4nPSAaX14s)
 - [Tracking and visualizing hand movement Apple sample](https://developer.apple.com/documentation/visionos/tracking-and-visualizing-hand-movement)
+- [Particle Effects](https://getstream.io/blog/visionos-particle-effects/)
 
 ## Assets and images
 - [Free 360 images for your projects](https://www.freepik.com/search?format=search&last_filter=query&last_value=360+panorama+images&query=360+panorama+images)
