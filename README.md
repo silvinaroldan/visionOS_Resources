@@ -5,10 +5,8 @@ This repository features valuable resources to facilitate learning SwiftUI for V
 
 ## Table of Contents
 - [Samples](#samples)
-- [References](#references)
-- [visionOS YouTube Channels](#visionos-youtube-channels)
+- [GitHub Repositories](#github-repositories)
 - [Tutorials](#tutorials)
-- [Other Useful Repositories and Articles](#visionos-youtube-channels)
 - [Assets and images](#assets-and-images)
 - [Others](#others)
 
@@ -26,17 +24,15 @@ This repository features valuable resources to facilitate learning SwiftUI for V
 ## GitHub Repositories
 - [UI Elements and 3D Interaction Framework for development and debugging](https://github.com/noeticgarden/uielements?tab=readme-ov-file)
 
-## YouTube tutorials
-- [Dwight the Maker - visionOs Development](https://www.youtube.com/watch?v=iPgeybXjh7I&list=PLZzMtchyTKdOl0YGpeUmFiRSA6JNOO92Z)
-- [Sarang Borude - Make a Beautiful Bubble Shader for Apple Vision Pro Tutorial](https://www.youtube.com/watch?v=zk1u4nguamY)
-- [Sarang Borude - Making bubbles move in your Apple Vision Pro app](https://www.youtube.com/watch?v=GVC6X6aQ9kM)
-- [Generating 3D text with RealityKit](https://coledennis.medium.com/tutorial-generating-3d-text-with-realitykit-in-a-swiftui-app-fa2a50403012)
-
 ## Tutorials
 - [visionOS Pathway from Apple](https://developer.apple.com/visionos/pathway/)
 - [Introduction to 3D Modeling - Coursera](https://www.coursera.org/learn/introduction-to-3d-modeling/)
 - [How to add collision components to an entity to animate it if we perform a gesture](https://developer.apple.com/videos/play/wwdc2023/10203)
 - [visionOS Labs](https://vrhermit.com/canvatorium-visio/)
+- [Dwight the Maker - visionOs Development](https://www.youtube.com/watch?v=iPgeybXjh7I&list=PLZzMtchyTKdOl0YGpeUmFiRSA6JNOO92Z)
+- [Sarang Borude - Make a Beautiful Bubble Shader for Apple Vision Pro Tutorial](https://www.youtube.com/watch?v=zk1u4nguamY)
+- [Sarang Borude - Making bubbles move in your Apple Vision Pro app](https://www.youtube.com/watch?v=GVC6X6aQ9kM)
+- [Generating 3D text with RealityKit](https://coledennis.medium.com/tutorial-generating-3d-text-with-realitykit-in-a-swiftui-app-fa2a50403012)
 - [Hand Tracking, Scene Reconstruction and Real World Interactions with ARKit](https://www.youtube.com/watch?v=y4nPSAaX14s)
 - [Tracking and visualizing hand movement Apple sample](https://developer.apple.com/documentation/visionos/tracking-and-visualizing-hand-movement)
 - [Particle Effects](https://getstream.io/blog/visionos-particle-effects/)
