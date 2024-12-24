@@ -27,7 +27,7 @@ This repository features valuable resources to facilitate learning SwiftUI for V
 
 ## Development Tutorials
 - [visionOS Pathway from Apple](https://developer.apple.com/visionos/pathway/)
-- [Introduction to 3D Modeling - Coursera](https://www.coursera.org/learn/introduction-to-3d-modeling/)
+- [Arkit in visionOS](https://developer.apple.com/documentation/arkit/arkit_in_visionos)
 - [How to add collision components to an entity to animate it if we perform a gesture](https://developer.apple.com/videos/play/wwdc2023/10203)
 - [visionOS Labs](https://vrhermit.com/canvatorium-visio/)
 - [Dwight the Maker - visionOs Development](https://www.youtube.com/watch?v=iPgeybXjh7I&list=PLZzMtchyTKdOl0YGpeUmFiRSA6JNOO92Z)
@@ -37,6 +37,7 @@ This repository features valuable resources to facilitate learning SwiftUI for V
 - [Hand Tracking, Scene Reconstruction and Real World Interactions with ARKit](https://www.youtube.com/watch?v=y4nPSAaX14s)
 - [Tracking and visualizing hand movement Apple sample](https://developer.apple.com/documentation/visionos/tracking-and-visualizing-hand-movement)
 - [Particle Effects](https://getstream.io/blog/visionos-particle-effects/)
+- [Introduction to 3D Modeling - Coursera](https://www.coursera.org/learn/introduction-to-3d-modeling/)
 
 ## Reality Composer Pro tutorials
 [Compose interactive 3D content](https://developer.apple.com/videos/play/wwdc2024/10102/)
