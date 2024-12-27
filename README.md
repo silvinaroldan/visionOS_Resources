@@ -15,6 +15,7 @@ This repository features valuable resources to facilitate learning SwiftUI for V
 
 | Project                                                         | Screenshot                                                                                             |
 |-----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| [Hand Tracking with animated butterfly](https://github.com/silvinaroldan/hand-tracking)|<img src="https://github.com/user-attachments/assets/fd752c99-76fd-47a5-86fb-5c3ff18b47d4" width="400"/> |
 | [3D Shoe Catalog with Favorites Selection](https://github.com/silvinaroldan/SpatialShoes)|<img src="https://github.com/user-attachments/assets/b45cc752-2aad-481b-9cec-2d2ab0a0d480" width="400"/> |
 | [Simple Form](https://github.com/silvinaroldan/BirthDateForm/tree/main) | <img src="https://github.com/user-attachments/assets/c42f5f00-602b-45a5-b44c-7892741d616f"  width="400">   | 
 | [Pop Bubbles in an Immersive Space](https://github.com/silvinaroldan/Bubbles/tree/main) | <img src="https://github.com/user-attachments/assets/1e7301a8-dc53-4e46-b3a9-330c6f1d79ee" width="400"> |
