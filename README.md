@@ -47,6 +47,7 @@ This repository features valuable resources to facilitate learning SwiftUI for V
 
 ## Assets and images
 - [Free 360 images for your projects](https://www.freepik.com/search?format=search&last_filter=query&last_value=360+panorama+images&query=360+panorama+images)
+- [3D Models - Sketchfab](https://sketchfab.com/)
 
 ## Others
 - [Apple's Feedback Assistant, a platform for reporting bugs and submitting feedback about Apple products](https://feedbackassistant.apple.com/)
