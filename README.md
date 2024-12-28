@@ -1,7 +1,7 @@
 
 # visionOS Resources
 
-This repository features valuable resources to facilitate learning SwiftUI for Vision Pro and includes a collection of visionOS samples I've created.
+This repository features resources to learn SwiftUI for Vision Pro and includes a collection of visionOS samples I've created.
 
 ## Table of Contents
 - [Samples](#samples)
