@@ -1,32 +1,31 @@
 
-# visionOS Resources
+# visionOS Resources 
 
-This repository features resources to learn SwiftUI for Vision Pro and includes a collection of visionOS samples I've created.
+This repository offers resources for Vision Pro, along with a variety of visionOS examples for reference.
 
 ## Table of Contents
-- [Samples](#samples)
-- [GitHub Repositories](#github-repositories)
-- [Development Tutorials](#development-tutorials)
+- [Examples](#examples)
+- [Useful GitHub Repositories](#useful-github-repositories)
+- [Development Resources](#development-resources)
 - [Reality Composer Pro](#reality-composer-pro-tutorials)
 - [Assets and images](#assets-and-images)
 - [Others](#others)
 
-## Samples
+## Examples
+| Project | Description  | Preview |
+|----------|----------|----------|
+|[Hand Tracking sample](https://github.com/silvinaroldan/hand-tracking)| Hand Tracking with animated butterfly |<img src="https://github.com/user-attachments/assets/fd752c99-76fd-47a5-86fb-5c3ff18b47d4" width="450"/>|
+|[Spatial 3D Shoe Catalog](https://github.com/silvinaroldan/SpatialShoes)| Spatial 3D Shoe Catalog with Favorites Selection and volumetric 3D view detail | <img src="https://github.com/user-attachments/assets/b45cc752-2aad-481b-9cec-2d2ab0a0d480" width="450"/>|                                                                                         |
+|[Simple Form](https://github.com/silvinaroldan/BirthDateForm/tree/main)| A simple form that requests the user's name and birthdate | <img src="https://github.com/user-attachments/assets/c42f5f00-602b-45a5-b44c-7892741d616f"  width="450" />  |
+| [Pop Bubbles](https://github.com/silvinaroldan/Bubbles/tree/main) |Pop Bubbles in an Immersive Space with 3D text inside | <img src="https://github.com/user-attachments/assets/1e7301a8-dc53-4e46-b3a9-330c6f1d79ee" width="450" /> |
+| [Bubbles](https://github.com/silvinaroldan/BubblesMovesSmoothly/tree/main) | 3D Bubbles moves in an immersive experience with a 360-degree image |<img src="https://github.com/user-attachments/assets/e165eb27-cb52-4095-a848-998be563a82a"  width="450"> |        |
+| [Bubbles with 3D text](https://github.com/silvinaroldan/BubbleText/tree/main) | Bubbles with 3D text inside | <img src="https://github.com/user-attachments/assets/ba299844-9cd4-4e3c-9f6b-26c578f4acc4"  width="450"> |   
 
-| Project                                                         | Screenshot                                                                                             |
-|-----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| [Hand Tracking with animated butterfly](https://github.com/silvinaroldan/hand-tracking)|<img src="https://github.com/user-attachments/assets/fd752c99-76fd-47a5-86fb-5c3ff18b47d4" width="400"/> |
-| [3D Shoe Catalog with Favorites Selection](https://github.com/silvinaroldan/SpatialShoes)|<img src="https://github.com/user-attachments/assets/b45cc752-2aad-481b-9cec-2d2ab0a0d480" width="400"/> |
-| [Simple Form](https://github.com/silvinaroldan/BirthDateForm/tree/main) | <img src="https://github.com/user-attachments/assets/c42f5f00-602b-45a5-b44c-7892741d616f"  width="400">   | 
-| [Pop Bubbles in an Immersive Space](https://github.com/silvinaroldan/Bubbles/tree/main) | <img src="https://github.com/user-attachments/assets/1e7301a8-dc53-4e46-b3a9-330c6f1d79ee" width="400"> |
-| [Bubbles moves in an immersive experience with a 360-degree image](https://github.com/silvinaroldan/BubblesMovesSmoothly/tree/main) |<img src="https://github.com/user-attachments/assets/e165eb27-cb52-4095-a848-998be563a82a"  width="400"> |        |
-| [Bubbles with 3D text inside](https://github.com/silvinaroldan/BubbleText/tree/main) |<img src="https://github.com/user-attachments/assets/ba299844-9cd4-4e3c-9f6b-26c578f4acc4"  width="400"> |   
 
-
-## GitHub Repositories
+## Useful GitHub Repositories
 - [UI Elements and 3D Interaction Framework for development and debugging](https://github.com/noeticgarden/uielements?tab=readme-ov-file)
 
-## Development Tutorials
+## Development Resources
 - [visionOS Pathway from Apple](https://developer.apple.com/visionos/pathway/)
 - [Arkit in visionOS](https://developer.apple.com/documentation/arkit/arkit_in_visionos)
 - [RealityKit Drawing app](https://developer.apple.com/videos/play/wwdc2024/10104)
