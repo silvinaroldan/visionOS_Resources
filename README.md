@@ -48,6 +48,7 @@ This repository offers resources for Vision Pro, along with a variety of visionO
 ## Assets and images
 - [Free 360 images for your projects](https://www.freepik.com/search?format=search&last_filter=query&last_value=360+panorama+images&query=360+panorama+images)
 - [3D Models - Sketchfab](https://sketchfab.com/)
+- [USDZ 3D Models - Beautiful Things](https://www.beautifulthings.xyz)
 
 ## Others
 - [Apple's Feedback Assistant, a platform for reporting bugs and submitting feedback about Apple products](https://feedbackassistant.apple.com/)
