@@ -5,10 +5,10 @@ This repository offers resources for Vision Pro, along with a variety of visionO
 
 ## Table of Contents
 - [Examples](#examples)
-- [Useful GitHub Repositories](#useful-github-repositories)
+- [GitHub Repositories](#github-repositories)
 - [Development Resources](#development-resources)
 - [Reality Composer Pro](#reality-composer-pro-tutorials)
-- [Assets and images](#assets-and-images)
+- [Design](#design)
 - [Others](#others)
 
 ## Examples
@@ -22,7 +22,7 @@ This repository offers resources for Vision Pro, along with a variety of visionO
 | [Bubbles with 3D text](https://github.com/silvinaroldan/BubbleText/tree/main) | Bubbles with 3D text inside | <img src="https://github.com/user-attachments/assets/ba299844-9cd4-4e3c-9f6b-26c578f4acc4"  width="450"> |   
 
 
-## Useful GitHub Repositories
+## GitHub Repositories
 - [UI Elements and 3D Interaction Framework for development and debugging](https://github.com/noeticgarden/uielements?tab=readme-ov-file)
 
 ## Development Resources
@@ -45,7 +45,8 @@ This repository offers resources for Vision Pro, along with a variety of visionO
 [Compose interactive 3D content](https://developer.apple.com/videos/play/wwdc2024/10102/)
   
 
-## Assets and images
+## Design
+- [Apple’s visionOS design kit for Figma](https://www.figma.com/community/file/1253443272911187215/apple-design-resources-visionos)
 - [Free 360 images for your projects](https://www.freepik.com/search?format=search&last_filter=query&last_value=360+panorama+images&query=360+panorama+images)
 - [3D Models - Sketchfab](https://sketchfab.com/)
 - [USDZ 3D Models - Beautiful Things](https://www.beautifulthings.xyz)
