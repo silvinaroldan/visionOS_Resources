@@ -7,6 +7,7 @@ This repository offers resources for Vision Pro, along with a variety of visionO
 - [Examples](#examples)
 - [GitHub Repositories](#github-repositories)
 - [Tutorials](#tutorials)
+- [Books](#books)
 - [Reality Composer Pro](#reality-composer-pro-tutorials)
 - [Design](#design)
 - [Others](#others)
@@ -42,8 +43,12 @@ This repository offers resources for Vision Pro, along with a variety of visionO
 - [Introduction to 3D Modeling - Coursera](https://www.coursera.org/learn/introduction-to-3d-modeling/)
 - [Start 3D: An introduction to key 3D concepts - by Adobe](https://blog.adobe.com/en/publish/2020/11/09/start-3d-an-introduction-to-key-3d-concepts)
 
+
+## Books
+- [Apple Vision Pro for Creators: A Beginner's Guide to Building Immersive Experiences](https://amzn.to/40anBCj)
+
 ## Reality Composer Pro tutorials
-[Compose interactive 3D content](https://developer.apple.com/videos/play/wwdc2024/10102/)
+- [Compose interactive 3D content](https://developer.apple.com/videos/play/wwdc2024/10102/)
   
 
 ## Design
