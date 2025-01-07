@@ -14,7 +14,7 @@ This repository offers resources for Vision Pro, along with a variety of visionO
 ## Examples
 | Project | Description  | Preview |
 |----------|----------|----------|
-|[Hand Tracking sample](https://github.com/silvinaroldan/hand-tracking)| Hand Tracking with animated butterfly |<img src="https://github.com/user-attachments/assets/fd752c99-76fd-47a5-86fb-5c3ff18b47d4" width="450"/>|
+|[Hand Tracking sample](https://github.com/silvinaroldan/hand-tracking)| Hand Tracking with animated butterfly |<img src="https://github.com/user-attachments/assets/99ba01ce-afd7-4d6a-83d8-3179c53d8e39" width="450"/>|
 |[Spatial 3D Shoe Catalog](https://github.com/silvinaroldan/SpatialShoes)| Spatial 3D Shoe Catalog with Favorites Selection and volumetric 3D view detail | <img src="https://github.com/user-attachments/assets/b45cc752-2aad-481b-9cec-2d2ab0a0d480" width="450"/>|                                                                                         |
 |[Simple Form](https://github.com/silvinaroldan/BirthDateForm/tree/main)| A simple form that requests the user's name and birthdate | <img src="https://github.com/user-attachments/assets/c42f5f00-602b-45a5-b44c-7892741d616f"  width="450" />  |
 | [Pop Bubbles](https://github.com/silvinaroldan/Bubbles/tree/main) |Pop Bubbles in an Immersive Space | <img src="https://github.com/user-attachments/assets/1e7301a8-dc53-4e46-b3a9-330c6f1d79ee" width="450" /> |
