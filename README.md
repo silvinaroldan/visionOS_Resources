@@ -6,7 +6,7 @@ This repository offers resources for Vision Pro, along with a variety of visionO
 ## Table of Contents
 - [Examples](#examples)
 - [GitHub Repositories](#github-repositories)
-- [Development Resources](#development-resources)
+- [Tutorials](#tutorials)
 - [Reality Composer Pro](#reality-composer-pro-tutorials)
 - [Design](#design)
 - [Others](#others)
@@ -25,7 +25,7 @@ This repository offers resources for Vision Pro, along with a variety of visionO
 ## GitHub Repositories
 - [UI Elements and 3D Interaction Framework for development and debugging](https://github.com/noeticgarden/uielements?tab=readme-ov-file)
 
-## Development Resources
+## Tutorials
 - [visionOS Pathway from Apple](https://developer.apple.com/visionos/pathway/)
 - [Arkit in visionOS](https://developer.apple.com/documentation/arkit/arkit_in_visionos)
 - [RealityKit Drawing app](https://developer.apple.com/videos/play/wwdc2024/10104)
@@ -40,6 +40,7 @@ This repository offers resources for Vision Pro, along with a variety of visionO
 - [Tracking and visualizing hand movement Apple sample](https://developer.apple.com/documentation/visionos/tracking-and-visualizing-hand-movement)
 - [Particle Effects](https://getstream.io/blog/visionos-particle-effects/)
 - [Introduction to 3D Modeling - Coursera](https://www.coursera.org/learn/introduction-to-3d-modeling/)
+- [Start 3D: An introduction to key 3D concepts - by Adobe](https://blog.adobe.com/en/publish/2020/11/09/start-3d-an-introduction-to-key-3d-concepts)
 
 ## Reality Composer Pro tutorials
 [Compose interactive 3D content](https://developer.apple.com/videos/play/wwdc2024/10102/)
