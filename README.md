@@ -25,6 +25,7 @@ This repository offers resources for Vision Pro, along with a variety of visionO
 
 ## GitHub Repositories
 - [UI Elements and 3D Interaction Framework for development and debugging](https://github.com/noeticgarden/uielements?tab=readme-ov-file)
+- [Official visionOS Samples](https://github.com/raisukeshirabe/official-visionOS-samples)
 
 ## Tutorials
 - [visionOS Pathway from Apple](https://developer.apple.com/visionos/pathway/)
