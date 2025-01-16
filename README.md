@@ -50,6 +50,7 @@ This repository offers resources for Vision Pro, along with a variety of visionO
 
 ## Reality Composer Pro tutorials
 - [Compose interactive 3D content](https://developer.apple.com/videos/play/wwdc2024/10102/)
+- [Designing realitykit content with reality composer pro](https://developer.apple.com/documentation/visionos/designing-realitykit-content-with-reality-composer-pro)
   
 
 ## Design
