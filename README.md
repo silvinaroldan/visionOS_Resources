@@ -29,9 +29,6 @@ This repository offers resources for Vision Pro, along with a variety of visionO
 
 ## Tutorials
 - [visionOS Pathway from Apple](https://developer.apple.com/visionos/pathway/)
-- [Arkit in visionOS](https://developer.apple.com/documentation/arkit/arkit_in_visionos)
-- [RealityKit Drawing app](https://developer.apple.com/videos/play/wwdc2024/10104)
-- [RealityKit Drawing app sample](https://developer.apple.com/documentation/realitykit/creating-a-spatial-drawing-app-with-realitykit)
 - [How to add collision components to an entity to animate it if we perform a gesture](https://developer.apple.com/videos/play/wwdc2023/10203)
 - [visionOS Labs](https://vrhermit.com/canvatorium-visio/)
 - [Dwight the Maker - visionOs Development](https://www.youtube.com/watch?v=iPgeybXjh7I&list=PLZzMtchyTKdOl0YGpeUmFiRSA6JNOO92Z)
