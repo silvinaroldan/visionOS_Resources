@@ -30,6 +30,7 @@ This repository offers resources for Vision Pro, along with a variety of visionO
 ## Tutorials
 - [visionOS Pathway from Apple](https://developer.apple.com/visionos/pathway/)
 - [visionOS Labs](https://vrhermit.com/canvatorium-visio/)
+- [Tassilo von Gerlach - Coding Vision OS App From Scratch youTube list](https://www.youtube.com/watch?v=KTFh-6LyFEI&list=PLzoXsQeVGa05gAK0LVLQhZJEjFFKSdup0)
 - [Dwight the Maker - visionOs Development](https://www.youtube.com/watch?v=iPgeybXjh7I&list=PLZzMtchyTKdOl0YGpeUmFiRSA6JNOO92Z)
 - [Sarang Borude - Make a Beautiful Bubble Shader for Apple Vision Pro Tutorial](https://www.youtube.com/watch?v=zk1u4nguamY)
 - [Sarang Borude - Making bubbles move in your Apple Vision Pro app](https://www.youtube.com/watch?v=GVC6X6aQ9kM)
