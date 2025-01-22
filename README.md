@@ -51,7 +51,7 @@ This repository offers resources for Vision Pro, along with a variety of visionO
 - [Designing realitykit content with reality composer pro](https://developer.apple.com/documentation/visionos/designing-realitykit-content-with-reality-composer-pro)
 
 ## Conferences
-[Let's visionOS 2024 youtube list](https://www.youtube.com/watch?v=cvjAzMFMnvc&list=PLrYMwiyqgR7eFKM0YbOYqkmFIMQ-Opq_J)
+- [Let's visionOS 2024 youtube list](https://www.youtube.com/watch?v=cvjAzMFMnvc&list=PLrYMwiyqgR7eFKM0YbOYqkmFIMQ-Opq_J)
 
 ## Design
 - [Apple’s visionOS design kit for Figma](https://www.figma.com/community/file/1253443272911187215/apple-design-resources-visionos)
