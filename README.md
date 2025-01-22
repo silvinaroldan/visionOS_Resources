@@ -9,6 +9,7 @@ This repository offers resources for Vision Pro, along with a variety of visionO
 - [Tutorials](#tutorials)
 - [Books](#books)
 - [Reality Composer Pro](#reality-composer-pro-tutorials)
+- [Conferences](#conferences)
 - [Design](#design)
 - [Others](#others)
 
@@ -48,7 +49,9 @@ This repository offers resources for Vision Pro, along with a variety of visionO
 ## Reality Composer Pro tutorials
 - [Compose interactive 3D content](https://developer.apple.com/videos/play/wwdc2024/10102/)
 - [Designing realitykit content with reality composer pro](https://developer.apple.com/documentation/visionos/designing-realitykit-content-with-reality-composer-pro)
-  
+
+## Conferences
+[Let's visionOS 2024 youtube list](https://www.youtube.com/watch?v=cvjAzMFMnvc&list=PLrYMwiyqgR7eFKM0YbOYqkmFIMQ-Opq_J)
 
 ## Design
 - [Apple’s visionOS design kit for Figma](https://www.figma.com/community/file/1253443272911187215/apple-design-resources-visionos)
