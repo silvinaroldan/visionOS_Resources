@@ -1,5 +1,5 @@
 
-# visionOS Resources 
+# Awesome visionOS Resources 
 
 This repository offers resources for Vision Pro, along with a variety of visionOS examples for reference.
 
