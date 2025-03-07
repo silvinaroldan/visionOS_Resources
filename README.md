@@ -44,6 +44,7 @@ This repository offers resources for Vision Pro, along with a variety of visionO
 - [Introduction to 3D Modeling - Coursera](https://www.coursera.org/learn/introduction-to-3d-modeling/)
 - [Start 3D: An introduction to key 3D concepts - by Adobe](https://blog.adobe.com/en/publish/2020/11/09/start-3d-an-introduction-to-key-3d-concepts)
 - [Building Vacuum Demo for visionOS from scratch](https://www.loom.com/share/c3331721a6ff47b9a66b30e7b59c6afc)
+- [Spatial Rendering for Apple Vision Pro with ARKit, Metal, and Compositor Services by Warren Moore](https://www.youtube.com/watch?v=vO0M4c9mb2E)
 
 
 ## Books
