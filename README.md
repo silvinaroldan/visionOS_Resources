@@ -65,4 +65,5 @@ This repository offers resources for Vision Pro, along with a variety of visionO
 
 ## Others
 - [Apple's Feedback Assistant, a platform for reporting bugs and submitting feedback about Apple products](https://feedbackassistant.apple.com/)
+- [Vision Directory Apps list](https://vision.directory)
 
